@@ -1,6 +1,6 @@
 # SE319HW1
 
-*snipit from assignment, more found in th PDF*
+*snipit from assignment, more found in the PDF*
 
 Create an offline HTML website that has three pages (10 points)
 1) Index page: index.html
